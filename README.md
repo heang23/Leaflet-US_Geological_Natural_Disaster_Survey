@@ -1,6 +1,6 @@
 # Leaflet Homework - Visualizing Data with Leaflet
 
-## Background
+## Project Summary
 
 ![1-Logo](Images/1-Logo.png)
 
